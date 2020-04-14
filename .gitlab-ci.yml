@@ -5,6 +5,6 @@ build_image:
   only:
     - master
   script:
-    - docker build -t registry.seevogroup.dev/specialfriends/kings:latest .
+    - docker build -t registry.seevogroup.dev/specialfriends/cards:latest .
     - docker login registry.seevogroup.dev -u testuser -p testpassword
-    - docker push registry.seevogroup.dev/specialfriends/kings:latest
+    - docker push registry.seevogroup.dev/specialfriends/cards:latest
