@@ -1,0 +1,10 @@
+before_script:
+  - docker info
+
+build_image:
+  only:
+    - master
+  script:
+    - docker build -t registry.seevogroup.dev/specialfriends/kings:latest .
+    - docker login registry.seevogroup.dev -u testuser -p testpassword
+    - docker push registry.seevogroup.dev/specialfriends/kings:latest

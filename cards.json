@@ -1,0 +1,536 @@
+{
+  "cards" : [
+    {
+      "value": "ACE",
+      "code": "AH",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "ACE",
+      "code": "AD",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "ACE",
+      "code": "AS",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "ACE",
+      "code": "AC",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "KING",
+      "code": "KH",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "KING",
+      "code": "KD",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "KING",
+      "code": "KS",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "KING",
+      "code": "KC",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "QUEEN",
+      "code": "QH",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "QUEEN",
+      "code": "QD",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "QUEEN",
+      "code": "QS",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "QUEEN",
+      "code": "QC",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "JACK",
+      "code": "JH",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "JACK",
+      "code": "JD",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "JACK",
+      "code": "JS",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "JACK",
+      "code": "JC",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "10",
+      "code": "0H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "10",
+      "code": "0D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "10",
+      "code": "0S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "10",
+      "code": "0C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "9",
+      "code": "9H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "9",
+      "code": "9D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "9",
+      "code": "9S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "9",
+      "code": "9C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "8",
+      "code": "8H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "8",
+      "code": "8D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "8",
+      "code": "8S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "8",
+      "code": "8C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "7",
+      "code": "7H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "7",
+      "code": "7D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "7",
+      "code": "7S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "7",
+      "code": "7C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "6",
+      "code": "6H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "6",
+      "code": "6D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "6",
+      "code": "6S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "6",
+      "code": "6C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "5",
+      "code": "5H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "5",
+      "code": "5D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "5",
+      "code": "5S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "5",
+      "code": "5C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "4",
+      "code": "4H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "4",
+      "code": "4D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "4",
+      "code": "4S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "4",
+      "code": "4C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "3",
+      "code": "3H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "3",
+      "code": "3D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "3",
+      "code": "3S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "3",
+      "code": "3C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+
+    {
+      "value": "2",
+      "code": "2H",
+      "suit": "HEARTS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "2",
+      "code": "2D",
+      "suit": "DIAMONDS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "2",
+      "code": "2S",
+      "suit": "SPADES",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    },
+    {
+      "value": "2",
+      "code": "2C",
+      "suit": "CLUBS",
+      "image": "",
+      "images": {
+        "png": "",
+        "svg": ""
+      }
+    }
+  ]
+}
